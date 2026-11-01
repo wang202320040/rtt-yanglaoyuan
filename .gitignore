@@ -1,0 +1,15 @@
+# build artifacts
+build/
+Debug/
+Release/
+*.o
+*.d
+*.axf
+*.elf
+*.bin
+*.hex
+*.map
+*.uvguix.*
+.venv/
+.vscode/
+
